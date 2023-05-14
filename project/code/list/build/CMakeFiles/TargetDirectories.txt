@@ -1,0 +1,3 @@
+/home/earlymor/vscode/Plan-1/project/code/list/build/CMakeFiles/test.dir
+/home/earlymor/vscode/Plan-1/project/code/list/build/CMakeFiles/edit_cache.dir
+/home/earlymor/vscode/Plan-1/project/code/list/build/CMakeFiles/rebuild_cache.dir
